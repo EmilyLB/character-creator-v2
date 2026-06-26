@@ -1,2 +1,7 @@
 .buttonRow {
+    position: relative;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    max-width: 100%;
+    white-space: nowrap;
 }
